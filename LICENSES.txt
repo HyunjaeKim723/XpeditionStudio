@@ -1,0 +1,46 @@
+================================================================================
+Third-Party Licenses
+================================================================================
+
+This application includes the following open-source software components:
+
+--------------------------------------------------------------------------------
+📦 PySide6
+--------------------------------------------------------------------------------
+Project: https://wiki.qt.io/Qt_for_Python  
+License: GNU Lesser General Public License (LGPL) v3.0  
+Copyright (C) The Qt Company Ltd and other contributors.
+
+This program uses PySide6, which is licensed under the LGPL v3. You can obtain a copy of the license at:
+https://www.gnu.org/licenses/lgpl-3.0.html
+
+Under the terms of the LGPL, PySide6 may be replaced with a compatible version.
+To comply with LGPL, shared library (.dll) files are provided separately and can be replaced.
+
+No modifications have been made to the PySide6 library. If any future modifications are made, corresponding source code will be made available upon request.
+
+--------------------------------------------------------------------------------
+📦 pywin32
+--------------------------------------------------------------------------------
+Project: https://github.com/mhammond/pywin32  
+License: Python Software Foundation License (PSF)  
+Copyright (c) 1996-2023, Mark Hammond
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+This software is provided "as-is", without warranty of any kind.
+
+--------------------------------------------------------------------------------
+📦 Python
+--------------------------------------------------------------------------------
+Project: https://www.python.org/  
+License: Python Software Foundation License (PSF)
+
+Python is licensed under the PSF license, which allows free use, modification, and distribution.
+
+================================================================================
